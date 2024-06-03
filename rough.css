@@ -1,0 +1,34 @@
+#id1{
+   background-color: red; 
+   /* width: 20%; */
+}
+#id2{
+    background-color: pink; 
+    /* width: 20%; */
+ }
+ #id3{
+    background-color: orange; 
+    /* width: 20%; */
+ }
+ #id4{
+    background-color: thistle; 
+    /* width: 20%; */
+ }
+ .pbox{
+    border: 2px solid black;
+    height: 100vh;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+ }
+ .box{
+    border: 2px dotted brown;
+    width: 100px;
+    height: 200px;
+    padding: 2px;
+    margin: 10px; 
+}
+ 
